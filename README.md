@@ -16,15 +16,9 @@
 [<img align="left" alt="ujjwol | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="ujjwol | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-<br />
-<br />
+<hr />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Ujjwol's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=UjjwolKayastha&show_icons=true&hide_border=true" />
-
-</details>
+<p align="center"><img src="https://sjb-github-readme-stats.vercel.app/api?username=UjjwolKayastha&show_icons=true&count_private=true" alt="UjjwolKayastha" /></p>
 
 <br />
 

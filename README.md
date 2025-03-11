@@ -12,6 +12,7 @@
 - [Create Express-GraphQL server with Node.js, express & Apollo server](https://articles.wesionary.team/create-graphql-server-with-node-js-express-apollo-server-cfe1dab9571a)
 - [Creating Next.js monorepo](https://articles.wesionary.team/creating-next-js-monorepo-d41ea78f4afb)
 - Next.js with Hasura and Supabase [Part 1](https://articles.wesionary.team/next-js-with-hasura-and-supabase-part-1-c93c90debd1f) [Part 2](https://articles.wesionary.team/next-js-with-hasura-and-supabase-part-2-296ddb5d799f)
+- [Next.js in Turborepo with Chakra UI & TailwindCSS](https://articles.wesionary.team/next-js-in-turborepo-with-chakra-ui-tailwindcss-6671e6cf730d)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:

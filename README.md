@@ -37,5 +37,5 @@
 [youtube]: https://www.youtube.com/channel/UCBZd97FF1gtfAOfgykAf3uQ
 [instagram]: https://www.instagram.com/ujjwolbaabu/
 [linkedin]: https://www.linkedin.com/in/ujjwolkayastha/
-[facebook]: https://www.facebook.com/kayasthaujjwol/
+[facebook]: https://www.facebook.com/ujjwolbaabu/
 [medium]: https://medium.com/@ujjwolkayastha

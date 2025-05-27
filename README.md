@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on being better than I was yesterday.
 - 🌱 I’m continuously learning. 
 - 💬 Ask me about **Node.js, React.js, Next.js, Golang, IoT, Java, SQL**
-- 📫 How to reach me: **ujjwolkayastha@gmail.com**
+- 📫 How to reach me: **me@ujjwolkayastha.com.np**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
